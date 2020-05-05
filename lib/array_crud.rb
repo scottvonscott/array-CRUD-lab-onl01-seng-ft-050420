@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-
+  cartoon_array = ["Bugs Bunny, Daffy Duck, Porky Pig, Taz"]
 end
 
 def add_element_to_end_of_array(array, element)
-
+  cartoon_arrary << "Tweety Bird"
 end
 
 def add_element_to_start_of_array(array, element)
